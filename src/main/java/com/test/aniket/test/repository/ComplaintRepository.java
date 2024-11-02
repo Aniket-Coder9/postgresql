@@ -1,6 +1,6 @@
-package com.test.aniket.repository;
+package com.test.aniket.test.repository;
 
-import com.test.aniket.entity.Complaint;
+import com.test.aniket.test.entity.Complaint;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

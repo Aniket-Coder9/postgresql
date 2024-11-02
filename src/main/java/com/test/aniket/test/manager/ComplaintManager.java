@@ -1,6 +1,6 @@
-package com.test.aniket.manager;
+package com.test.aniket.test.manager;
 
-import com.test.aniket.repository.ComplaintRepository;
+import com.test.aniket.test.repository.ComplaintRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

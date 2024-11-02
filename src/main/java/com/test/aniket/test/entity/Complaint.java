@@ -1,8 +1,8 @@
-package com.test.aniket.entity;
+package com.test.aniket.test.entity;
 
-import com.test.aniket.enums.Frequency;
-import com.test.aniket.enums.Priority;
-import com.test.aniket.enums.Status;
+import com.test.aniket.test.enums.Frequency;
+import com.test.aniket.test.enums.Priority;
+import com.test.aniket.test.enums.Status;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

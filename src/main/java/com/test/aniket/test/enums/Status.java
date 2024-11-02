@@ -1,4 +1,4 @@
-package com.test.aniket.enums;
+package com.test.aniket.test.enums;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
